@@ -1,3 +1,5 @@
+#EXTRACTION OF DIGIT USING 
+
 n = int(input("Enter The Number : "))
 num = n
 while num > 0 :
