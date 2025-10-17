@@ -1,8 +1,7 @@
 #EXTRACTION OF DIGIT USING 
 
 n = int(input("Enter The Number : "))
-num = n
-while num > 0 :
-    last_digit=num%10
+while n > 0 :
+    last_digit=n%10
     print(last_digit)
-    num=num//10
+    n=n//10
