@@ -1,11 +1,11 @@
-# 🐍 DSA using Python
+# DSA using Python
 
-Welcome to my **Data Structures and Algorithms (DSA)** learning journey using **Python** 🧠  
+Welcome to my **Data Structures and Algorithms (DSA)** learning journey using **Python** 
 This repository contains the concepts, notes, and code I’m writing as I learn DSA step by step.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 I created this repo to:
 - Learn and practice **DSA fundamentals**
 - Improve my **problem-solving** and **logic building**
@@ -14,7 +14,7 @@ I created this repo to:
 
 ---
 
-## 🧩 Topics I’m Learning
+## Topics I’m Learning
 
 ### 🔹 Data Structures
 - Arrays & Strings  
