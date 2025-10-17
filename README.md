@@ -32,5 +32,3 @@ I created this repo to:
 - Graph Algorithms (BFS, DFS, Dijkstra)  
 
 ---
-
-## 🗂️ Folder Structure
