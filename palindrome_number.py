@@ -1,4 +1,4 @@
-#PALINDROME NUMBER
+#CHECKS IF A NUMBER IS A PALINDROME:
 
 n = int(input("Enter The Number : "))
 num=n

@@ -1,4 +1,4 @@
-#EXTRACTION OF DIGIT USING LOOP
+#EXTRACTING DIGITS USING LOOP
 
 n = int(input("Enter The Number : "))
 num=n
